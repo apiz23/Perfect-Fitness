@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "948643723337",
+    "firebase_url": "https://perfect-fitness-8c733-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "perfect-fitness-8c733",
+    "storage_bucket": "perfect-fitness-8c733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948643723337:android:257c59cb8965019749a798",
+        "android_client_info": {
+          "package_name": "com.example.projectlatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948643723337-u482bskkdvgep0l935uj1haiim2k2k0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectlatest",
+            "certificate_hash": "a5aa9db0123268e9ad199b8d4c075397016fd244"
+          }
+        },
+        {
+          "client_id": "948643723337-ae9ntvpugob15cf6b8lmnthp0ec905p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJvXt894-OwdAwPSa_lVJCMgOUb313tvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948643723337-ae9ntvpugob15cf6b8lmnthp0ec905p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
